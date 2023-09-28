@@ -1,0 +1,115 @@
+body{
+			background-color: #E6E6E6
+		}
+		header	{
+			height: 100px;
+			width: 	100%;
+			background-color:;
+			line-height: 100px;
+		}
+		.logo{
+			background-color:;
+			height: 100px;
+			width: 	20%;
+			float: left;
+		}
+		.logo img{
+			
+			height: 30px;
+			width: 	60%;
+			
+		}
+		.menu{
+			background-color:;
+			height: 100px;
+			width: 	75%;
+			float: right;
+		}
+		.menu ul{
+			list-style-type: none;
+
+			}
+			.menu ul li{
+				background-color: black;
+				width: 100px;
+				height: 35px;
+				border: 1px solid white;
+				margin-left:  3px;
+				float: left;
+				line-height: 35px;
+				text-align: center;
+				color:white;
+			}
+			.menu ul li:hover{
+				background-color: green;
+				width: 100px;
+				height: 35px;
+				border: 1px solid white;
+				margin-left:  3px;
+				float: left;
+				line-height: 35px;
+				text-align: center;
+				color:white;
+			}
+			#UpperImage{
+				height: 430px;
+				width: 	100%;
+				background-color:;
+				margin-top:10px;
+			}
+			#UpperImage img{
+				height: 430px;
+				width: 	100%;
+
+			}
+				#mainCategoury{
+				height: 300px;
+				width: 	100%;
+				margin-top: 7px;
+				background-color:;
+			}
+			#mainCategoury .vegCategory{
+				height: 300px;
+				width: 	40%;
+				background-color:;
+				float: left;
+				margin-left:65px; 
+			}
+			#mainCategoury .vegCategory img{
+				height: 300px;
+				width: 100%	;
+				
+			border-radius: 5px;	
+				 
+			}
+			#vegbutton{
+				height: 40px;
+				width: 100%;
+			margin-top: 5px;
+			}
+			#vegbutton button{
+				height: 40px;
+				width:41%;
+				background-color: #DF0101;
+				margin-left: 4.1%;
+				color:white;
+				border: 0px;
+				border-radius: 10px;
+			}
+			#footer{
+			height: 70px;
+			width: 100%;
+			background-color: gray;
+			margin-top: 5px;
+			text-align: center;
+			line-height: 70px;
+			font-size: 20px;
+			font-weight: bold;
+		}
+		.social{
+			height: 200px;
+			width: 100%;
+			background-color: lightgreen;
+			text-align: center;
+			line-height: 240px;
+		}
